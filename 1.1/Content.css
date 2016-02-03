@@ -1,0 +1,4 @@
+#menu ul{
+	/* Place the id into the set of letters after chrome-extenesion:// */
+	background-image: url(chrome-extension://__MSG_@@extension_id__/Image.jpg) !important;
+	}

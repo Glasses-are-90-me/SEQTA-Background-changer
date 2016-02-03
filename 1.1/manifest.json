@@ -1,0 +1,11 @@
+{
+   "manifest_version": 2,
+   "name": "Coneqt background changer",
+   "permissions": [  "tabs", "http://*/*", "https://*/*", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "storage", "unlimitedStorage" ],
+   "version": "1.0",
+  "web_accessible_resources": ["*.jpg","*.JPG"],
+   "content_scripts": [{
+       "matches": ["https://coneqt-s.wcc.vic.edu.au/*"],
+       "css": ["Content.css"]
+    }]
+}
