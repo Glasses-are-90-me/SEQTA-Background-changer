@@ -1,5 +1,4 @@
 # SEQTA-Background-changer
-<h1>SEQTA-Background-changer</h1>
 <p>
 A simple chrome extension to customize SEQTA </br>
 Instructions for use: 
